@@ -90,6 +90,7 @@ npm install
 # Setup environment configuration
 cp .env.example .env
 php artisan key:generate
+php artisan storage:link
 
 # Configure database and mail settings in .env
 # (Edit the following lines inside the .env file)
