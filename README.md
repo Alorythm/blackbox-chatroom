@@ -7,14 +7,14 @@ The platform supports real-time communication, user roles (Administrator, Modera
 ---
 
 <p align="center">
-  <img src="screenshots/IMG_0001.png" width="180" height="400"/>
-  <img src="screenshots/IMG_0002.png" width="180" height="400"/>
-  <img src="screenshots/IMG_0003.png" width="180" height="400"/>
+  <img src="screenshots/IMG_0001.png" width="250" height="400"/>
+  <img src="screenshots/IMG_0002.png" width="250" height="400"/>
+  <img src="screenshots/IMG_0003.png" width="250" height="400"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/IMG_0004.png" width="180" height="400"/>
-  <img src="screenshots/IMG_0005.png" width="180" height="400"/>
+  <img src="screenshots/IMG_0004.png" width="250" height="400"/>
+  <img src="screenshots/IMG_0005.png" width="250" height="400"/>
 </p>
 
 ---
