@@ -1,0 +1,93 @@
+/* Navbar */
+.terminal-logo {
+    margin-left: 25px;
+    text-transform: uppercase;
+}
+
+.terminal-menu {
+    margin-right: 25px;
+}
+
+/* Auth Forms */
+.terminal-auth-form {
+    margin: 0 auto;
+    margin-top: 50px;
+    max-width: 500px;
+}
+
+.text-end {
+    text-align: right;
+}
+
+.mt-5 {
+    margin-top: 5px;
+}
+
+/* Homepage/Rules */
+.terminal-card-welcome,
+.terminal-timeline-rules {
+    margin: 50px auto;
+    width: 70vw;
+}
+
+/* Chat */
+.terminal-chat {
+    position: relative;
+    height: 100vh;
+    max-height: calc(100vh - 120px);
+    overflow-y: auto;
+}
+
+.terminal-chat-input {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.no-deco {
+    color: white;
+    text-decoration: none;
+}
+
+/* Alerts */
+.terminal-alert {
+    margin: 50px 125px 50px 125px;
+}
+
+/* Profile */
+.terminal-alert {
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+.termina-photo-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 25px auto;
+    max-width: 700px;
+}
+
+.terminal-btn-photo-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.terminal-btn-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+
+.terminal-profile-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.max-40 {
+    width: 40%;
+}
